@@ -157,7 +157,9 @@ Create the first usable version.
 
 Example:
 
-`infra scan ./project`
+```shell
+infra scan ./project
+```
 
 Output:
 
